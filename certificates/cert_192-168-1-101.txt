@@ -1,0 +1,11 @@
+--- CERTIFICATE OF DATA SANITIZATION ---
+
+Certificate ID: CERT-6989a5fce3f2c80f8cac1e092ca14301921951cf77f91
+Date of Issue: 2026-02-09 14:46:44 IST
+Device IP: 192.168.1.101
+Device MAC: N/A
+Sanitization Standard: DoD 5220.22-M (Simulated 3-Pass Wipe)
+Result: SUCCESS - All data permanently destroyed.
+
+Digitally Verified by Network Purge Utility
+Signature: d8728636e19d49cedd5bf619becd6cb3602925151fd037517e3eb9bc61a9b8d4

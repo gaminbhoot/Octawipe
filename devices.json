@@ -1,0 +1,76 @@
+[
+  {
+    "device": "/dev/sda",
+    "model": "Samsung SSD 970 EVO Plus 500GB",
+    "vendor": "Samsung",
+    "serial": "S4EWNX0N123456",
+    "disk_type": "NVMe SSD",
+    "interface": "NVMe PCIe 3.0",
+    "size_gb": 500,
+    "total_sectors": 976773168,
+    "temperature_c": 42,
+    "partitions": [
+      {
+        "mount": "/boot/efi",
+        "fs": "vfat",
+        "usage_pct": 25
+      },
+      {
+        "mount": "/",
+        "fs": "ext4",
+        "usage_pct": 68
+      }
+    ],
+    "methods": [
+      {
+        "method": "NIST 800-88 Purge",
+        "estimated_time_min": 45.28
+      },
+      {
+        "method": "DoD 5220.22-M (3-pass)",
+        "estimated_time_min": 135.84
+      }
+    ]
+  },
+  {
+    "device": "/dev/sdb",
+    "model": "Kingston DataTraveler 32GB",
+    "vendor": "Kingston",
+    "serial": "AC1234567890",
+    "disk_type": "USB Drive",
+    "interface": "USB 3.1",
+    "size_gb": 32,
+    "total_sectors": 62500000,
+    "temperature_c": null,
+    "partitions": [],
+    "methods": [
+      {
+        "method": "NIST 800-88 Purge",
+        "estimated_time_min": 5.5
+      },
+      {
+        "method": "DoD 5220.22-M (3-pass)",
+        "estimated_time_min": 16.5
+      }
+    ]
+  },
+  {
+    "device": "/dev/sdc",
+    "model": "1GB Test USB Stick",
+    "vendor": "Generic",
+    "serial": "TEST-DRIVE-001",
+    "disk_type": "USB Drive",
+    "interface": "USB 2.0",
+    "size_gb": 1,
+    "total_sectors": 1953546,
+    "temperature_c": null,
+    "partitions": [],
+    "methods": [
+      {
+        "method": "Quick Test Wipe (1-pass)",
+        "estimated_time_min": 0.1
+      }
+    ]
+  }
+]
+
