@@ -6,7 +6,7 @@
 
 ## 🚀 Live Prototype Demo
 
-**[▶ Open the Interactive Prototype → octawipe.netlify.app](https://octawipe.netlify.app/)**
+**[▶ Open the Interactive Prototype → octawipe.netlify.app](https://octawipe.jayjoshi.online/)**
 
 > ⚠️ **This is a simulated UI prototype.** No real wiping occurs. The prototype demonstrates the full interface with animated wipe progress, device selection, and network operations. The real system requires a local PHP + Linux server environment.
 
